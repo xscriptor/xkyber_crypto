@@ -1,5 +1,14 @@
 # XKyber_crypto
 
+> [!NOTE]
+> **Development on Hold**
+>
+> The development of **xkyber_crypto** is currently on hold due to lack of time.  
+> The project remains open-source, and **contributions are very welcome** — feel free to open issues or pull requests if you’d like to help improve or maintain it.  
+>
+> Thank you for your understanding and support.
+
+
 Is a Dart library for post-quantum encryption, providing a Key Encapsulation Mechanism (KEM) based on the Kyber algorithm. Kyber is a post-quantum cryptographic scheme selected by NIST for standardization, designed to be secure against attacks from quantum computers.
 
 ## Features
