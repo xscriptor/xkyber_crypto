@@ -4,6 +4,7 @@ version: 1.0.8
 homepage: https://github.com/xscriptorcode/xkyber_crypto
 repository: https://github.com/xscriptorcode/xkyber_crypto
 issue_tracker: https://github.com/xscriptorcode/xkyber_crypto/issues
+deprecated: Implementing Kyber correctly and securely in pure Dart is theoretically improbable due to language limitations for low-level operations (constant-time, memory control, vectorization). This project is superseded by the research published at https://xscriptor.com/en/blog/la-conjetura-y-el-contrato
 
 environment:
   sdk: ">=2.12.0 <4.0.0"

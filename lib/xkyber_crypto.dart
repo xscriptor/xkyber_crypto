@@ -1,3 +1,4 @@
+@Deprecated('xkyber_crypto has been abandoned. Implementing Kyber correctly and securely in pure Dart is theoretically improbable. See https://xscriptor.com/en/blog/la-conjetura-y-el-contrato for the associated research.')
 library xkyber_crypto;
 
 export 'constant_time_comparison.dart';
