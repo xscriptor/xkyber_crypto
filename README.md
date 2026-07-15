@@ -8,7 +8,7 @@
 > All research associated with this project has been moved to a series of articles on my blog. This post is the starting point:
 >
 > **"The Conjecture and the Contract — The Distance of the Secret I"**  
-> https://xscriptor.com/en/blog/la-conjetura-y-el-contrato
+> https://xscriptor.com/en/blog/kyber/la-conjetura-y-el-contrato/
 
 
 Is a Dart library for post-quantum encryption, providing a Key Encapsulation Mechanism (KEM) based on the Kyber algorithm. Kyber is a post-quantum cryptographic scheme selected by NIST for standardization, designed to be secure against attacks from quantum computers.
