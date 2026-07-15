@@ -1,12 +1,14 @@
 # XKyber_crypto
 
-> [!NOTE]
-> **Development on Hold**
+> [!WARNING]
+> **Archived Project**
 >
-> The development of **xkyber_crypto** is currently on hold due to lack of time.  
-> The project remains open-source, and **contributions are very welcome** — feel free to open issues or pull requests if you’d like to help improve or maintain it.  
+> The development of **xkyber_crypto** has been abandoned because implementing the Kyber algorithm correctly and securely in Dart from a purely native approach is theoretically improbable — the language's limitations for low-level operations (constant-time execution, fine-grained memory control, vectorization) make a reliable implementation extremely complex.
 >
-> Thank you for your understanding and support.
+> All research associated with this project has been moved to a series of articles on my blog. This post is the starting point:
+>
+> **"The Conjecture and the Contract — The Distance of the Secret I"**  
+> https://xscriptor.com/en/blog/la-conjetura-y-el-contrato
 
 
 Is a Dart library for post-quantum encryption, providing a Key Encapsulation Mechanism (KEM) based on the Kyber algorithm. Kyber is a post-quantum cryptographic scheme selected by NIST for standardization, designed to be secure against attacks from quantum computers.
